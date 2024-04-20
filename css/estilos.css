@@ -34,8 +34,8 @@ body {
 .logo__item {
     background-image: url(../img/cabecalho/cartoon-logo.png);
     background-repeat: no-repeat;
-    padding: 15px 65px;
-    min-width: 20%;
+    padding: 15px 77px;
+    width: 12.5%;
     cursor: pointer;
 }
 
