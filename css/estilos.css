@@ -32,10 +32,10 @@ body {
 }
 
 .logo__item {
-    background-image: url(../img/cabecalho/Logo.png);
+    background-image: url(../img/cabecalho/cartoon-logo.png);
     background-repeat: no-repeat;
     padding: 15px 65px;
-    /* width: 12.2%; */
+    min-width: 20%;
     cursor: pointer;
 }
 
